@@ -1,0 +1,43 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+
+.div{
+    height: 233px;
+    width: 556px;
+    margin-left: 671px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(216, 193, 160);
+    margin-top: 363px;
+    border-radius: 10px;
+    flex-direction: column;
+}
+.h1{
+    font-size: 39px;
+    margin-top: -29px;
+    color: black;
+    font-family: monospace;
+
+}
+.btn{
+    width: 514px;
+    height: 34px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    background-color: cadetblue;
+    color: ghostwhite;
+    font-size: 19px;
+}
+.para{
+    height: 0px;
+    width: 455px;
+    font-size: 25px;
+    font-style: italic;
+}
+.btn:hover {
+    background-color: rgb(72, 96, 97);
+}
